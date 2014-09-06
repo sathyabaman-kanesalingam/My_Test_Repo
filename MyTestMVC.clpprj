@@ -25,6 +25,23 @@
 					</treenode>
 				</treenode>
 			</phptree>
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Includes\include.php" crc="-1986357737">
+			<phptree>
+				<treenode node="Controller/Controller.php;Php:Php Include;9;1;34;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="obj;Php:Var Name;0;2;4;2;34;Controller;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\TODO.txt" crc="-1520833471">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\RELEASE_NOTES-1.0.3.txt" crc="-829275665">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\RELEASE_NOTES-1.0.2.txt" crc="929767111">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\RELEASE_NOTES-1.0.1.txt" crc="-289495788">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\RELEASE_NOTES-1.0.0.txt" crc="692206662">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\contributors.txt" crc="421050121">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\coding_standards.txt" crc="-409784738">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\CHANGES-1.0.txt" crc="397501107">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\README.txt" crc="-120409866">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\README.html" crc="436130870">
 		</csfile><csfile name="C:\wamp\www\MyTestMVC\Controller\Controller.php" crc="157252182">
 			<phptree>
 				<treenode node="Controller;Php:Class Name;0;2;1;7;34;;;v;;r;;d16,2;;b0,0;;m">
@@ -32,5 +49,9 @@
 					</treenode>
 				</treenode>
 			</phptree>
-		</csfile><csfile name="C:\wamp\www\MyTestMVC\index.php" crc="1604745361">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\index.php" crc="2097291291">
+			<phptree>
+				<treenode node="Includes/include.php;Php:Php Include;9;1;29;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</phptree>
 		</csfile></codestructure></project>
