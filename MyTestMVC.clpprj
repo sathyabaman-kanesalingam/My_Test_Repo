@@ -1,3 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project name="C:\wamp\www\MyTestMVC\MyTestMVC.clpprj">
-	<settings><PM_URL><![CDATA[C:/Documents and Settings/yasitha/My Documents/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Documents and Settings/yasitha/My Documents/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS></settings></project>
+	<settings><PM_URL><![CDATA[C:/Documents and Settings/yasitha/My Documents/]]></PM_URL><PM_HOME_URL><![CDATA[C:/Documents and Settings/yasitha/My Documents/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><dplmenupath>
+	</dplmenupath><smartyassings>
+	</smartyassings><codestructure>
+		<csfile name="C:\wamp\www\MyTestMVC\MyTestMVC.clpprj" crc="-955574550">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\View\View.php" crc="1604745361">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Model\Model.php" crc="212951067">
+			<phptree>
+				<treenode node="Database.php;Php:Php Include;9;1;21;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="Model;Php:Class Name;0;3;1;10;34;;;v;;r;;d11,3;;b0,0;;m">
+					<treenode node="__construct;Php:Function Name;8;7;2;9;34;;;v;;r;;d30,7;;b1,0;;m">
+					</treenode>
+					<treenode node="db;Php:Var Name;8;5;11;5;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Model\Database.php" crc="-1015374922">
+			<phptree>
+				<treenode node="Database;Php:Class Name;0;2;1;20;34;;;vPDO;;c;;r;;d26,2;;b0,0;;m">
+					<treenode node="__construct;Php:Function Name;8;11;2;19;34;;;v;;r;;d30,11;;b1,0;;m">
+					</treenode>
+					<treenode node="config;Php:Var Name;8;4;15;4;34;;;v;;r;;d-1,-1;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Controller\Controller.php" crc="157252182">
+			<phptree>
+				<treenode node="Controller;Php:Class Name;0;2;1;7;34;;;v;;r;;d16,2;;b0,0;;m">
+					<treenode node="__construct;Php:Function Name;8;4;2;6;34;;;v;;r;;d30,4;;b1,0;;m">
+					</treenode>
+				</treenode>
+			</phptree>
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\index.php" crc="1604745361">
+		</csfile></codestructure></project>
