@@ -25,11 +25,9 @@
 					</treenode>
 				</treenode>
 			</phptree>
-		</csfile><csfile name="C:\wamp\www\MyTestMVC\Includes\include.php" crc="-1986357737">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Includes\include.php" crc="1695926697">
 			<phptree>
-				<treenode node="Controller/Controller.php;Php:Php Include;9;1;34;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
-				</treenode>
-				<treenode node="obj;Php:Var Name;0;2;4;2;34;Controller;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="Controller/Controller.php;Php:Php Include;9;4;34;4;34;;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</phptree>
 		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\TODO.txt" crc="-1520833471">
@@ -42,16 +40,16 @@
 		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\doc\CHANGES-1.0.txt" crc="397501107">
 		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\README.txt" crc="-120409866">
 		</csfile><csfile name="C:\wamp\www\MyTestMVC\gitflow\shFlags\README.html" crc="436130870">
-		</csfile><csfile name="C:\wamp\www\MyTestMVC\Controller\Controller.php" crc="157252182">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\Controller\Controller.php" crc="-179720074">
 			<phptree>
-				<treenode node="Controller;Php:Class Name;0;2;1;7;34;;;v;;r;;d16,2;;b0,0;;m">
-					<treenode node="__construct;Php:Function Name;8;4;2;6;34;;;v;;r;;d30,4;;b1,0;;m">
+				<treenode node="Controller;Php:Class Name;0;4;1;9;34;;;v;;r;;d16,4;;b0,0;;m">
+					<treenode node="__construct;Php:Function Name;8;6;2;8;34;;;v;;r;;d30,6;;b1,0;;m">
 					</treenode>
 				</treenode>
 			</phptree>
-		</csfile><csfile name="C:\wamp\www\MyTestMVC\index.php" crc="2097291291">
+		</csfile><csfile name="C:\wamp\www\MyTestMVC\index.php" crc="1457939781">
 			<phptree>
-				<treenode node="Includes/include.php;Php:Php Include;9;1;29;1;34;;;v;;r;;d-1,-1;;b0,0;;m">
+				<treenode node="Includes/include.php;Php:Php Include;9;5;29;5;34;;;v;;r;;d-1,-1;;b0,0;;m">
 				</treenode>
 			</phptree>
 		</csfile></codestructure></project>
