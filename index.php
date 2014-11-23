@@ -4,4 +4,7 @@
 * 
 */
 include('Includes/include.php');
+
+echo "<br/>hello world";
+
 ?>
